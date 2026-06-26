@@ -1,4 +1,166 @@
 {
-  "es": [],
-  "en": []
+  "es": [
+    {
+      "id": "es0",
+      "title": "Ámbito Comunicación II - Lengua castellana y Literatura 2025",
+      "author": "Mercedes Labra Cenitagoya ",
+      "year": "2025",
+      "emoji": "📕",
+      "color": "#FAEEDA",
+      "badges": [
+        {
+          "t": "ES",
+          "c": "b-es"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "1. El cuarto poder 2. El triunfo de la imaginación 3. Un espejo por un ancho camino 4. El verso azul y la canción profana 5. Acaben los ecos y empiecen las voces 6. Poesía desnuda, mía para siempre 7....",
+      "coverSrc": "http://books.google.com/books/content?id=CP5kEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "es1",
+      "title": "In angulo cum libro",
+      "author": "Miguel Arche López",
+      "year": "2025",
+      "emoji": "📗",
+      "color": "#E1F5EE",
+      "badges": [
+        {
+          "t": "ES",
+          "c": "b-es"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "In ángulo cum libro. Los materiales de la filología es fruto de una reflexión sobre el origen mismo de nuestra especialidad, en el que se han querido reunir algunas contribuciones que versan sobre tre...",
+      "coverSrc": "http://books.google.com/books/content?id=-JueEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "es2",
+      "title": "La literatura marroquí en lengua española. Otras cartografías críticas",
+      "author": "VV. AA.",
+      "year": "2026",
+      "emoji": "📘",
+      "color": "#EEEDFE",
+      "badges": [
+        {
+          "t": "ES",
+          "c": "b-es"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "La literatura marroquí en lengua española. Otras cartografías críticas recoge las actas del seminario titulado: «Literatura marroquí en lengua española: explorando otras lecturas», que tuvo lugar en S...",
+      "coverSrc": "http://books.google.com/books/content?id=nUbGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "es3",
+      "title": "El español en África subsahariana",
+      "author": "Javier Serrano Avilés",
+      "year": "2026",
+      "emoji": "📙",
+      "color": "#FAECE7",
+      "badges": [
+        {
+          "t": "ES",
+          "c": "b-es"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "El futuro del español se construye donde hay imaginación, trabajo y comunidad. Y uno de los lugares donde esa construcción se da hoy con especial claridad es África. Un continente que, con frecuencia,...",
+      "coverSrc": "http://books.google.com/books/content?id=e-zkEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+  ],
+  "en": [
+    {
+      "id": "en0",
+      "title": "Metaperspectives in Contemporary Literary Fiction",
+      "author": "Naomi Adam",
+      "year": "2026",
+      "emoji": "📕",
+      "color": "#FAEEDA",
+      "badges": [
+        {
+          "t": "EN",
+          "c": "b-en"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "Metaperspectives in Contemporary Literary Fiction offers a literary-linguistic investigation of hypothesis and the metaperspective within contemporary Booker Prize-winning novels. This highly innovati...",
+      "coverSrc": "http://books.google.com/books/content?id=M-HGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "en1",
+      "title": "Test Your Linguistics",
+      "author": "Dr Rishikesh Tewari",
+      "year": "2026",
+      "emoji": "📗",
+      "color": "#E1F5EE",
+      "badges": [
+        {
+          "t": "EN",
+          "c": "b-en"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "\"Test Your Linguistics: A Universe of Mock Tests\" is an unparalleled resource for individuals preparing for linguistics-based competitive exams, including M.A. entrance exams, Ph.D. entrance exams, UG...",
+      "coverSrc": "http://books.google.com/books/content?id=huitEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "en2",
+      "title": "The Mystical Mister Kay",
+      "author": "Meihan Boey",
+      "year": "2025",
+      "emoji": "📘",
+      "color": "#EEEDFE",
+      "badges": [
+        {
+          "t": "EN",
+          "c": "b-en"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "--Winner of the 2025 Epigram Books Fiction Prize-- The final gripping chapter in the saga of Miss Cassidy. The truth is out there. And somewhere, so is Miss Cassidy. The Mystical Mister Kay, a ghost-s...",
+      "coverSrc": "http://books.google.com/books/content?id=ynuPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "en3",
+      "title": "Race, Violence, and Form: Reframing Nineteenth-Century Ireland",
+      "author": "Renée Fox",
+      "year": "2026",
+      "emoji": "📙",
+      "color": "#FAECE7",
+      "badges": [
+        {
+          "t": "EN",
+          "c": "b-en"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "Irish literary studies has long subordinated the nineteenth century to the experimental triumphs of Irish modernism, variously dismissing its achievements as too indebted to British forms to be truly ...",
+      "coverSrc": "http://books.google.com/books/content?id=6CnHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+  ]
 }
