@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const API_KEY = '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';
+const API_KEY = process.env.ANTHROPIC_API_KEY;
 const GOOGLE_BOOKS_KEY = 'AIzaSyCUBeqOXy-_WIztHHi9PPGyWAQZ66qP8N0';
 
 async function actualizarNovedades() {
