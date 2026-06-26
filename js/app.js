@@ -62,7 +62,7 @@ function filtrarLibros() {
   clearTimeout(filtroTimer);
   filtroTimer = setTimeout(async () => {
     if (moods.length === 0 && topics.length === 0) {
-      fetch('http://localhost:3000/api/novedades')
+      fetch('https://que-leer.onrender.com)
         .then(r => r.json())
         .then(data => {
           window.currentBooks = [...(data.es || []), ...(data.en || [])];
@@ -77,7 +77,7 @@ function filtrarLibros() {
 
     const mood = moods[0] || '';
     const topicsStr = topics.join(',');
-    const url = `http://localhost:3000/api/buscar-libros?mood=${encodeURIComponent(mood)}&topics=${encodeURIComponent(topicsStr)}&lang=${lang}`;
+    const url = `https://que-leer.onrender.com/api/buscar-libros?mood=${encodeURIComponent(mood)}&topics=${encodeURIComponent(topicsStr)}&lang=${lang}`;
 
     try {
       const r = await fetch(url);
@@ -277,7 +277,7 @@ async function pedirResenaIA(title, author) {
   document.getElementById('modal-body').innerHTML = '<div class="loading-spinner">✨ Consultando a la IA...</div>';
   document.getElementById('modal-ia').style.display = 'flex';
   try {
-    const resp = await fetch('http://localhost:3000/api/claude', {
+    const resp = await fetch('https://que-leer.onrender.com/api/claude', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -309,7 +309,7 @@ async function pedirIA() {
   document.getElementById('modal-ia').style.display = 'flex';
 
   try {
-    const resp = await fetch('http://localhost:3000/api/claude', {
+    const resp = await fetch('https://que-leer.onrender.com0/api/claude', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -341,7 +341,7 @@ async function pedirIALista() {
   document.getElementById('modal-ia').style.display = 'flex';
 
   try {
-    const resp = await fetch('http://localhost:3000/api/claude', {
+    const resp = await fetch('https://que-leer.onrender.com/api/claude', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -367,7 +367,7 @@ Respuesta breve y cálida en español.`
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelector('.week-pill').textContent = getSemanaActual();
 
-  fetch('http://localhost:3000/api/novedades')
+  fetch('https://que-leer.onrender.com/api/novedades')
     .then(r => r.json())
     .then(data => {
       window.currentBooks = [...(data.es || []), ...(data.en || [])];
