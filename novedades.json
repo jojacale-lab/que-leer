@@ -22,31 +22,11 @@
     },
     {
       "id": "es1",
-      "title": "In angulo cum libro",
-      "author": "Miguel Arche López",
-      "year": "2025",
-      "emoji": "📗",
-      "color": "#E1F5EE",
-      "badges": [
-        {
-          "t": "ES",
-          "c": "b-es"
-        },
-        {
-          "t": "Nuevo",
-          "c": "b-new"
-        }
-      ],
-      "resena": "In ángulo cum libro. Los materiales de la filología es fruto de una reflexión sobre el origen mismo de nuestra especialidad, en el que se han querido reunir algunas contribuciones que versan sobre tre...",
-      "coverSrc": "http://books.google.com/books/content?id=-JueEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "es2",
       "title": "La literatura marroquí en lengua española. Otras cartografías críticas",
       "author": "VV. AA.",
       "year": "2026",
-      "emoji": "📘",
-      "color": "#EEEDFE",
+      "emoji": "📗",
+      "color": "#E1F5EE",
       "badges": [
         {
           "t": "ES",
@@ -61,10 +41,30 @@
       "coverSrc": "http://books.google.com/books/content?id=nUbGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+      "id": "es2",
+      "title": "In angulo cum libro",
+      "author": "Miguel Arche López",
+      "year": "2025",
+      "emoji": "📘",
+      "color": "#EEEDFE",
+      "badges": [
+        {
+          "t": "ES",
+          "c": "b-es"
+        },
+        {
+          "t": "Nuevo",
+          "c": "b-new"
+        }
+      ],
+      "resena": "In ángulo cum libro. Los materiales de la filología es fruto de una reflexión sobre el origen mismo de nuestra especialidad, en el que se han querido reunir algunas contribuciones que versan sobre tre...",
+      "coverSrc": "http://books.google.com/books/content?id=-JueEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
       "id": "es3",
-      "title": "El español en África subsahariana",
-      "author": "Javier Serrano Avilés",
-      "year": "2026",
+      "title": "Bibliografía general española e hispanoamericana",
+      "author": "Autor desconocido",
+      "year": "1967",
       "emoji": "📙",
       "color": "#FAECE7",
       "badges": [
@@ -77,8 +77,8 @@
           "c": "b-new"
         }
       ],
-      "resena": "El futuro del español se construye donde hay imaginación, trabajo y comunidad. Y uno de los lugares donde esa construcción se da hoy con especial claridad es África. Un continente que, con frecuencia,...",
-      "coverSrc": "http://books.google.com/books/content?id=e-zkEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      "resena": "Feb./Mar. 1941 a cumulative volume covering period July 1936-Dec. 1940....",
+      "coverSrc": "http://books.google.com/books/content?id=D3cyEDQJgU8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     }
   ],
   "en": [
